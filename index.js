@@ -36,7 +36,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["Watching vos candidatures"];
+const statusMessages = [""];
 
 
 let currentIndex = 0;
