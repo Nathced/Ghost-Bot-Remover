@@ -36,7 +36,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = [".gg/lyceesdb"];
+const statusMessages = [".gg/collegesdb"];
 
 
 let currentIndex = 0;
